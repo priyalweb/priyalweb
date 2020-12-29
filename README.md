@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Priyal Dubey and I am a UG sophomore student at IIT Indore.
+I am Priyal Dubey I am a UG sophomore student at IIT Indore.
 
 I enjoy creating things that live on the internet, whether that be websites, applications, or anything in between.
 <!--
@@ -19,6 +19,7 @@ I enjoy creating things that live on the internet, whether that be websites, app
 - 📫 How to reach me: 
  Twitter -[@priyaldubey3](https://twitter.com/PriyalDubey3)
  Linkedin - [-priyal](https://www.linkedin.com/in/-priyal/)
+- 👩‍💻 About me: [My Portfolio website](https://priyalweb.github.io/)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love baking, decorating, eating cakes. 
 
