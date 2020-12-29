@@ -11,7 +11,7 @@ I enjoy creating things that live on the internet, whether that be websites, app
 
 ![](https://komarev.com/ghpvc/?username=priyalweb)
 
-- 🔭 I’m currently working on an online Notes uploading website.
+<!-- - 🔭 I’m currently working on an online Notes uploading website. -->
 - 🌱 I’m currently learning React, Node.js.
 - 👯 I’m looking to collaborate on GitHub.
 - 🤔 I’m looking for help with an eCommerce website.
