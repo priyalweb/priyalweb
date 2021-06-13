@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Priyal Dubey I am a UG sophomore student at IIT Indore.
+I am Priyal Dubey I am a undergraduate sophomore student at IIT Indore.
 
 I enjoy creating things that live on the internet, whether that be websites, applications, or anything in between.
 <!--
