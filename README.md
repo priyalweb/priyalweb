@@ -12,16 +12,16 @@ I enjoy creating things that live on the internet, whether that be websites, app
 ![](https://komarev.com/ghpvc/?username=priyalweb)
 
 <!-- - 🔭 I’m currently working on an online Notes uploading website. -->
-- 🌱 I’m currently learning React, Node.js.
+<!-- - 🤔 I’m looking for help with an eCommerce website. -->
+- 🌱 I’m currently learning Mern stack, Machine learning.
 - 👯 I’m looking to collaborate on GitHub.
-- 🤔 I’m looking for help with an eCommerce website.
-- 💬 Ask me about PHP, MySQL.
+- 💬 Ask me about PHP, MySQL, MERN.
 - 📫 How to reach me: 
  Twitter -[@priyaldubey3](https://twitter.com/PriyalDubey3)
  Linkedin - [-priyal](https://www.linkedin.com/in/-priyal/)
 - 👩‍💻 About me: [My Portfolio website](https://priyalweb.github.io/)
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love baking, decorating, eating cakes. 
+- ⚡ Fun fact: I love baking! Someday I want to write a book.
 
 <h2 align="center"> My GitHub Stats </h2>
 <div align="center">
