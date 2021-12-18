@@ -13,15 +13,15 @@ I enjoy creating things that live on the internet, whether that be websites, app
 
 <!-- - 🔭 I’m currently working on an online Notes uploading website. -->
 <!-- - 🤔 I’m looking for help with an eCommerce website. -->
-- 🌱 I’m currently learning Mern stack, Machine learning.
-- 👯 I’m looking to collaborate on GitHub.
-- 💬 Ask me about PHP, MySQL, React.
+- 🌱 I’m currently learning Mern stack, Machine learning
+- 👯 I’m looking to collaborate on GitHub
+- 💬 Ask me about PHP, MySQL, React
 - 📫 How to reach me: 
  Twitter: [@priyaldubey3](https://twitter.com/PriyalDubey3)
  Linkedin: [-priyal](https://www.linkedin.com/in/-priyal/)
 - 👩‍💻 About me: [My Portfolio website](https://priyalweb.github.io/)
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love baking! Someday I want to write a book.
+- ⚡ Fun fact: I love baking! Someday I want to write a book
 
 <h2 align="center"> My GitHub Stats </h2>
 <div align="center">
