@@ -15,7 +15,7 @@ I enjoy creating things that live on the internet, whether that be websites, app
 <!-- - 🤔 I’m looking for help with an eCommerce website. -->
 - 🌱 I’m currently learning Mern stack, Machine learning.
 - 👯 I’m looking to collaborate on GitHub.
-- 💬 Ask me about PHP, MySQL, MERN.
+- 💬 Ask me about PHP, MySQL, React.
 - 📫 How to reach me: 
  Twitter: [@priyaldubey3](https://twitter.com/PriyalDubey3)
  Linkedin: [-priyal](https://www.linkedin.com/in/-priyal/)
