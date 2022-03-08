@@ -1,6 +1,6 @@
-<div style="background-color:powderblue;">
-### Hi there 👋
 
+### Hi there 👋
+<div style="background-color:powderblue;">
 I am Priyal Dubey, an undergraduate junior student at IIT Indore.
 
 I enjoy creating things that live on the internet, whether that be websites, applications, or anything in between.
