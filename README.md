@@ -1,3 +1,4 @@
+<div style="background-color:powderblue;">
 ### Hi there 👋
 
 I am Priyal Dubey, an undergraduate junior student at IIT Indore.
@@ -52,4 +53,5 @@ I enjoy creating things that live on the internet, whether that be websites, app
 
 [![Top `Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyalweb&layout=compact&show_icons=true)](https://github.com/priyalweb/github-readme-stats)
 
+</div>
 </div>
